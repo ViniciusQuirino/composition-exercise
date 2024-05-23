@@ -1,0 +1,15 @@
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/exercício-enum-lists
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/exercício-enum-lists.deps.json
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/exercício-enum-lists.runtimeconfig.json
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/exercício-enum-lists.dll
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/ref/exercício-enum-lists.dll
+/home/vinicius/Área de Trabalho/exercício-enum-lists/bin/Debug/net6.0/exercício-enum-lists.pdb
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.dll
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/ref/exercício-enum-lists.dll
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.pdb
+/home/vinicius/Área de Trabalho/exercício-enum-lists/obj/Debug/net6.0/exercício-enum-lists.genruntimeconfig.cache
